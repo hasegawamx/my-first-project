@@ -1,5 +1,7 @@
 // Define personal information
-const name = "Hiroshi Hasegawa";
+const name = "Hasegawa";
+
+
 let age = 33;
 const occupation = "Engineer";
 const hobbies = ["読書", "ゲーム", "旅行"];
